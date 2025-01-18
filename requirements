@@ -3,14 +3,4 @@ pandas
 numpy
 seaborn
 matplotlib
-sklearn
-train_test_split
-LinearRegression
-DecisionTreeRegressor
-mean_squared_error
-r2_score
-StandardScaler
-ColumnTransformer
-Pipeline
-SimpleImputer
-OneHotEncoder
+scikit-learn
